@@ -10,7 +10,7 @@ LANE_LENGTH = 5.0
 STEP_DELAY = 0.02
 INITIAL = {
     "p": LANE_WIDTH / 2, # position
-    "s": 1.0, # speed
+    "s": 2.0, # speed
     "a": 0.0, # angle
     "i": 0.0, # spin
 }

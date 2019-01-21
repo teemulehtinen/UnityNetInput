@@ -9,3 +9,5 @@ A Python script `bowler.py` exists to generate and send different object
 trajectories to the Unity listener. This may be usefull in testing.
 Once latest [Python](https://www.python.org/downloads/) is installed
 the script will execute by double clicking or from command line.
+
+![ScreenToGif](https://raw.githubusercontent.com/teemulehtinen/UnityNetInput/master/UnityNetInput.gif "ScreenToGif")
